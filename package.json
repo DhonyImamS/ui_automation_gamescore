@@ -1,0 +1,14 @@
+{
+  "name": "automation_zzzscore",
+  "version": "1.0.0",
+  "description": "automation_score_ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-ui"
+  },
+  "author": "DhonyImamS",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^3.5.0"
+  }
+}
